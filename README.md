@@ -1,2 +1,16 @@
 # TV_WALL
-Programa feito para a @EnergisaSE com o intuito de atualizar paginas do PBI e apresenta-las numa parede de TV de forma organizada.
+Programa feito para a @Energisa SE com o intuito de atualizar paginas do PBI e apresenta-las numa parede de TV de forma organizada.
+
+## To Do
+
+- [X] Conectar em sites da WEB;
+- [X] Organizar as páginas em cada tela da parede;
+- [X] Executável do programa.
+
+## Instruções de uso
+
+- Instalar o python 3 ou baixar o Executável (Encontra-se na pasta 'dist');
+- Colocar os links que serão apresentados;
+- Colocar as posições de cada tela da parede;
+- Definir onde cada link irá ser apresentado;
+- Aguardar o programa apresentar a página e atualiza-la com um tempo pré definido.
